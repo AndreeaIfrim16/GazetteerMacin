@@ -6,7 +6,7 @@ Formatul datelor este text delimitat de tab-uri în codificare utf8.
 
 ## Fișiere: ##
 **Gazetteer.csv**   : toponimele și caracteristicile pentru acestea organizate pe coloane, precum ID, ORT_ANT, NUME_ALT, LIMBA, COD1, COD2, COD3, UAT, UAT_ACT, LAT_WGS84, LONG_WGS84, X_STEREO, Y_STEREO.  
-**Schema.csv**      : codul, numele și descrierea pentru clasele de caracteristici, unde "CODx" este codul clasei de caracteristici corespunzător celui din tabelului Gazetteer; "TIP1" reprezintă clasa toponimului, "TIP2" este o categorisire a acestor clase, iar "TIP3" este elementul.  
+**Clasificare.csv**      : codul, numele și descrierea pentru clasele de caracteristici, unde "CODx" este codul clasei de caracteristici corespunzător celui din tabelului Gazetteer; "TIP1" reprezintă clasa toponimului, "TIP2" este o categorisire a acestor clase, iar "TIP3" este elementul.  
 **Geoname_v1.gpkg** : idem Gazetteer.csv + informația geospațială.
 
 Tabelul principal ***Gazetter*** are următoarele câmpuri:  
@@ -28,7 +28,7 @@ Tabelul principal ***Gazetter*** are următoarele câmpuri:
 
 În acest tabel, doar coloanele **ORT_ANT** și **NUME_ALT** permit valori nule.  
 
-Tabelul secundar ***Schema***:
+Tabelul secundar ***Clasificare***:
 
 **COD1**            : codul identificatorului unic corespunzător clasei toponimului, numeric(3,0)  
 **TIP1**            : denumirea clasei toponimului, varchar(10)  
@@ -45,7 +45,7 @@ Harta Dobrogei ridicată pe scala 1:10000 în anii 1880-1883 sub domnia Majestă
 Planul Director de Tragere, foaia 5354, anul 1950-1954 pentru toponimul "Coada Caprinei"  
 Planul Director de Tragere, foaia 5553, anul 1950-1954 pentru toponimele "Balta Caprinei", "Pădurea Lată", "Pădurea Jidanului"   
 
-**Cheia primară** se face pe coloana *COD3* din tabelul *Schema*, iar **cheia străină** se face pe coloana *COD3* din tabelul *Gazetteer*.
+**Cheia primară** se face pe coloana *COD3* din tabelul *Clasificare*, iar **cheia străină** se face pe coloana *COD3* din tabelul *Gazetteer*.
                   
 ## Descrierea elementelor:
 
