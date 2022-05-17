@@ -26,7 +26,9 @@ Tabelul principal ***Gazetter*** are următoarele câmpuri:
 **X_STEREO**        : latitudinea în metri (Stereo70 - EPSG:3844), numeric(10,4)    
 **Y_STEREO**        : longitudinea în metri (Stereo70 - EPSG: 3844), numeric(10,4)  
 
-Tabelul ***Schema***:
+În acest tabel, doar coloanele **ORT_ANT** și **NUME_ALT** permit valori nule.  
+
+Tabelul secundar ***Schema***:
 
 **COD1**            : codul identificatorului unic corespunzător clasei toponimului, numeric(3,0)  
 **TIP1**            : denumirea clasei toponimului, varchar(10)  
@@ -35,11 +37,15 @@ Tabelul ***Schema***:
 **COD3**            : codul identificatorului unic corespunzător elementului, numeric(3,0)  
 **TIP3**            : denumirea elementului, varchar(40)  
 
+În acest tabel, nicio coloană nu permite valori nule.  
+
 ### Sursa datelor   :  
 Dicţionarul geografic statistic şi istoric al judeţului Tulcea-Dănescu, Grigore, 1896  
 Harta Dobrogei ridicată pe scala 1:10000 în anii 1880-1883 sub domnia Majestății Sale Carol I rege al României de Marele Stat Major al Armatei, Redcțiune la 1:200000, Bucuresci, 1887  
 Planul Director de Tragere, foaia 5354, anul 1950-1954 pentru toponimul "Coada Caprinei"  
 Planul Director de Tragere, foaia 5553, anul 1950-1954 pentru toponimele "Balta Caprinei", "Pădurea Lată", "Pădurea Jidanului"   
+
+**Cheia primară** se face pe coloana *COD3* din tabelul *Schema*, iar **cheia străină** se face pe coloana *COD3* din tabelul *Gazetteer*.
                   
 ## Descrierea elementelor:
 
