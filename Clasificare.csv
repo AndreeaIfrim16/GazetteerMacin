@@ -1,0 +1,30 @@
+﻿COD1;TIP1;COD2;TIP2;COD3;TIP3
+100;hidronim;1001;apă curgătoare;101;pârâu
+100;hidronim;1001;apă curgătoare;102;gârlă
+100;hidronim;1002;apă stătătoare;103;baltă
+100;hidronim;1002;apă stătătoare;104;lac
+100;hidronim;1001;apă curgătoare;105;braț al Dunării
+200;oronim;2002;formă de relief de ordin 2;201;deal
+200;oronim;2002;formă de relief de ordin 2;202;grind
+200;oronim;2002;formă de relief de ordin 2;203;movilă
+200;oronim;2003;formă de relief de ordin 3;204;vârf de deal
+200;oronim;2002;formă de relief de ordin 2;205;ostrov
+200;oronim;2002;formă de relief de ordin 2;206;vale
+200;oronim;2002;formă de relief de ordin 2;207;câmpie
+200;oronim;2003;formă de relief de ordin 3;208;pisc
+200;oronim;2001;formă de relief de ordin 1;209;culmi deluroase
+200;oronim;2001;formă de relief de ordin 1;210;șir de dealuri
+200;oronim;2001;formă de relief de ordin 1;211;șir de movile
+300;drimonim;3001;spațiu forestier;301;pădure
+400;oiconim;4001;așezare rurală;401;sat
+400;oiconim;4002;așezare rurală cu funcție administrativ-teritorială;402;comună rurală
+400;oiconim;4003;așezare urbană cu funcție administrativ-teritorială;403;comună urbană
+400;oiconim;4004;ruine;404;ruinele unui sit religios
+400;oiconim;4004;ruine;406;ruinele unui pichet de graniță
+400;oiconim;4004;ruine;407;ruine de cetate 
+400;oiconim;4005;loc populat izolat;408;locuință izolată
+400;oiconim;4006;așezare păstorească;409;câșlă de oi
+400;oiconim;4007;sit istoric;410;cetate
+400;oiconim;4007;sit istoric;411;fort
+400;oiconim;4008;sit religios;412;monument funerar
+400;oiconim;4008;sit religios;413;mănăstire
