@@ -62,7 +62,7 @@ Planul Director de Tragere, foaia 5553, anul 1950-1954 pentru toponimele "Balta 
 ***vale***                           : formă de relief negativă rezultată preponderent prin acțiunea unei ape curgătoare.  
 ***câmpie***                         : o întindere mare de loc, cu o suprafață aproape netedă și joasă.  
 ***pisc***                           : vârf ascuțit și stâncos, caracteristic regiunilor muntoase și deluroase, de obicei fără vegetație, cu pante repezi, dominând o vale sau o depresiune.  
-***culmi deluroase***                : partea superioară alungită și relativ îngustă a unor dealuri.  
+***culme deluroase***                : partea superioară alungită și relativ îngustă a unor dealuri.  
 ***șir de dealuri***                 : o înlănțuire de dealuri, despărțite de șei înguste.  
 ***șir de movile***                  : o înlănțuire de movile, despărțite de văi înguste.  
 ***pădure***                         : suprafață mare de teren pe care cresc în stare sălbatică specii de arbori și arbuști, specii de plante erbacee, mușchi și diferite specii de animale.  
