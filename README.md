@@ -54,7 +54,7 @@ Planul Director de Tragere, foaia 5553, anul 1950-1954 pentru toponimele "Balta 
 ***baltă***                          : lac natural, de dimensiuni mai mici, cu adâncime mică, format în sectoare mai joase în luncile râurilor.  
 ***lac***                            : o întindere de apă stătătoare, strânsă într-o scobitură a uscatului.  
 ***braț***                           : curs secundar care se desprinde dintr-un râu sau fluviu  
-***deal***                           : formă pozitivă de relief cu ascpect de culme rotunjită încadrată de văi, care se desfășoarăîntre 300 și 1000 m.  
+***deal***                           : formă pozitivă de relief cu ascpect de culme rotunjită încadrată de văi, care se desfășoară între 300 și 1000 m.  
 ***grind***                          : formă de relief pozitivă, formată din acumulările de pietriș și nisip, situată în albia majoră a râurilor sau de-o parte și de alta a brațelor deltaice.  
 ***movilă***                         : ridicătură de pământ, mai mică și mai rotunjită decât dealul, care se află de obicei în regiunile de câmpie sau de podișuri joase.  
 ***vârf de deal***                   : formă de relief cu aspect conic, ce reprezintă partea superioară a unor culmi deluroase.  
